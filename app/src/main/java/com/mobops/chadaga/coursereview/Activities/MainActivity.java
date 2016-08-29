@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity {
     Spinner spinner;
     TextView tvError;
 
-    public final static String EXTRA_MESSAGE1 = "ExtraMessage1";
-    public final static String EXTRA_MESSAGE2 = "ExtraMessage2";
+    public final static String EXTRA_MESSAGE1 = "TheExtraMessage1";
+    public final static String EXTRA_MESSAGE2 = "TheExtraMessage2";
     Toolbar toolbar;
 
     @Override
